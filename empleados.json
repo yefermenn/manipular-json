@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Empleado 1",
+        "salario": 50000,
+        "puesto": "Gerente",
+        "ubicacion": "Oficina Central"
+    },
+    {
+        "nombre": "Empleado 2",
+        "salario": 40000,
+        "puesto": "Asistente",
+        "ubicacion": "Sucursal Norte"
+    },
+    {
+        "nombre": "Empleado 3",
+        "salario": 35000,
+        "puesto": "Operario",
+        "ubicacion": "Planta Sur"
+    }
+]
