@@ -1,0 +1,62 @@
+[
+    {
+      "nombre": "Juan Pérez",
+      "identificacion": "123456789",
+      "eps": "SaludTotal",
+      "causa_ingreso": "Fractura de pierna"
+    },
+    {
+      "nombre": "María Gómez",
+      "identificacion": "987654321",
+      "eps": "Nueva EPS",
+      "causa_ingreso": "Infección respiratoria"
+    },
+    {
+      "nombre": "Carlos Ramírez",
+      "identificacion": "456123789",
+      "eps": "Coomeva",
+      "causa_ingreso": "Dolor abdominal"
+    },
+    {
+      "nombre": "Laura Torres",
+      "identificacion": "321654987",
+      "eps": "Sura",
+      "causa_ingreso": "Chequeo general"
+    },
+    {
+      "nombre": "Andrés López",
+      "identificacion": "741852963",
+      "eps": "Sanitas",
+      "causa_ingreso": "Traumatismo craneal"
+    },
+    {
+      "nombre": "Luisa Fernández",
+      "identificacion": "963258741",
+      "eps": "Famisanar",
+      "causa_ingreso": "Alergia severa"
+    },
+    {
+      "nombre": "Pedro Castillo",
+      "identificacion": "159753486",
+      "eps": "Compensar",
+      "causa_ingreso": "Infarto"
+    },
+    {
+      "nombre": "Ana Morales",
+      "identificacion": "357159486",
+      "eps": "SaludVida",
+      "causa_ingreso": "Fractura de brazo"
+    },
+    {
+      "nombre": "Jorge Herrera",
+      "identificacion": "852963741",
+      "eps": "Medimás",
+      "causa_ingreso": "Cirugía de apéndice"
+    },
+    {
+      "nombre": "Camila Soto",
+      "identificacion": "741369258",
+      "eps": "MutualSer",
+      "causa_ingreso": "Parto"
+    }
+  ]
